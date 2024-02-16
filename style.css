@@ -1,13 +1,14 @@
 
 .box{
     padding: 0px 0px 0px 280px;  
-
+    margin: 10px;
 }
 .center{
     justify-content: center;
     text-align: center;
 }
 .car{
-    
+    justify-content: center;
+    display: inline-block;
 
 }
